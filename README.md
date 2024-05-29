@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @guilherme-f1-TUMO-COIMBRA
+- 👀 I’m interested in Python
